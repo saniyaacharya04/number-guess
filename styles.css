@@ -1,0 +1,62 @@
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color: #e3f2fd;
+    padding: 20px;
+    margin: 0;
+  }
+
+  #container {
+    background: #91bfda;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 500px;
+    margin: auto;
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  h1 {
+    color: #0d47a1;
+    font-size: 32px;
+    margin-bottom: 20px;
+  }
+
+  input, select, button {
+    padding: 15px;
+    font-size: 18px;
+    margin: 10px auto;
+    width: 100%;
+    max-width: 300px;
+    display: block;
+    box-sizing: border-box;
+  }
+
+  #message {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 30px;
+  }
+
+  .success { color: green; }
+  .fail { color: red; }
+
+  #leaderboard, #attemptsDisplay, #timer {
+    margin: 20px auto;
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    width: 100%;
+    max-width: 320px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    text-align: center;
+  }
+
+  ul {
+    padding-left: 0;
+    list-style-type: none;
+  }
+
+  button:disabled {
+    background-color: #ccc;
+  }
