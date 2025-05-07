@@ -1,7 +1,3 @@
-Here’s a simple README template for your Number Guessing Game project. You can modify it according to your needs:
-
----
-
 # Number Guessing Game
 
 A simple web-based number guessing game where players try to guess a randomly generated number within a given range. The game has different difficulty levels and a leaderboard to track high scores.
@@ -57,7 +53,3 @@ A simple web-based number guessing game where players try to guess a randomly ge
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to update or add more details based on your personal preferences or additional features!
